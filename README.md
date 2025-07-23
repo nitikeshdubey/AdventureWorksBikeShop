@@ -89,6 +89,13 @@ The dataset includes:
 
 ---
 
+### 🔗 Live Power BI Report
+
+[![View Dashboard](https://img.shields.io/badge/View_PowerBI_Dashboard-0076D4?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOWFlMDhkZDMtOWE4Mi00NjlhLWIyZDctYzA4NzlmZDE2ODkwIiwidCI6IjVkNmI5ZmM3LWJiZjktNDM5YS04ZWQ0LWNmMjhjY2JiNzFkOCJ9)
+
+
+---
+
 ## 👤 About Me
 
 I'm a passionate **Data Analyst** skilled in Power BI, SQL, and Python. This is one of my projects to demonstrate how data storytelling can drive real business value.
