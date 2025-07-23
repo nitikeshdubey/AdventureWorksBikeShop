@@ -70,6 +70,25 @@ The dataset includes:
 
 ---
 
+### 📌 Dashboard Previews
+
+#### 🧑‍💼 Executive Dashboard
+![Executive Dashboard](images/Executive%20Dashboard.png)
+
+#### 🗺️ Map Page
+![Map](images/Mpa.png)
+
+#### 📦 Product Details Page
+![Product Details](images/Product%20Details.png)
+
+#### 👥 Customer Details Page
+![Customer Details](images/Customer%20Details.png)
+
+#### 🔍 Key Influencers Analysis
+![Key Influencers](images/Key%20Influencers.png)
+
+---
+
 ## 👤 About Me
 
 I'm a passionate **Data Analyst** skilled in Power BI, SQL, and Python. This is one of my projects to demonstrate how data storytelling can drive real business value.
