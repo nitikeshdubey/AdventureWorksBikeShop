@@ -76,7 +76,7 @@ The dataset includes:
 ![Executive Dashboard](images/Executive%20Dashboard.png)
 
 #### 🗺️ Map Page
-![Map](images/Mpa.png)
+![Map](images/Map.png)
 
 #### 📦 Product Details Page
 ![Product Details](images/Product%20Details.png)
@@ -91,7 +91,7 @@ The dataset includes:
 
 ### 🔗 Live Power BI Report
 
-[![View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWFlMDhkZDMtOWE4Mi00NjlhLWIyZDctYzA4NzlmZDE2ODkwIiwidCI6IjVkNmI5ZmM3LWJiZjktNDM5YS04ZWQ0LWNmMjhjY2JiNzFkOCJ9&pageName=a75e7cc8106f785c9c66)
+[![View Dashboard](https://img.shields.io/badge/View_PowerBI_Dashboard-0076D4?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOWFlMDhkZDMtOWE4Mi00NjlhLWIyZDctYzA4NzlmZDE2ODkwIiwidCI6IjVkNmI5ZmM3LWJiZjktNDM5YS04ZWQ0LWNmMjhjY2JiNzFkOCJ9&pageName=a75e7cc8106f785c9c66)
 
 
 ---
